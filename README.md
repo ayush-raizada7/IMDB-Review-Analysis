@@ -5,3 +5,5 @@
 # Text Preprocessing - NLTK, WordNet, StopWords
 # Text encoding - Tokenizer in keras
 # Libraries required - TensorFlow, Keras, NLTK
+Datasets can be Downloaded from-
+https://drive.google.com/open?id=1YOFFGgkodUbJeJ46D2wOWvQu5ZaaLpEw
